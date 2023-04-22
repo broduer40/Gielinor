@@ -1,4 +1,4 @@
 # Gielinor
 Gielinor - GitHub
 
-Credit to https://raynna.github.io/Avalon for the base!
+Credit to https://github.io/rynna/Avalon for the base!
